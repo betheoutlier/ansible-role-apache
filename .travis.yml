@@ -81,4 +81,4 @@ sudo: required
 
 before_install:
   # Pull container from Docker Hub.
-  - 'docker pull betheoutlier/ansible-role-apache/tree/encapsulate-paths-vhosts-tests:latest'
+  - 'docker pull betheoutlier/ansible-role-apache/tree/encapsulate-paths-vhosts-tests'
